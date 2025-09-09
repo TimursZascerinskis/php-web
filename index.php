@@ -14,7 +14,7 @@
     <form action="form-submitted.php" method="POST">
         Name: <input type="text" name="name"><br>
         E-mail: <input type="email" name="email"><br>
-        Atsauksme: <textarea  type="text" name="atsauksme" rows="3" cols="40" ></textarea><br>
+        Atsauksme: <textarea  type="text" name="atsauksme" rows="1" cols="40" ></textarea><br>
         <input type="submit">
     </form>
 </body>
